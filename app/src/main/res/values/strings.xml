@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pronunciador</string>
+    <string name="btn_next">Continuar</string>
+    <string name="tv_instructions">Ingresa el texto en ingles \nque desea aprender a pronunciar.</string>
+    <string name="et_text">Ingresa el texto aqui</string>
+    <string name="btn_pronounce">Pronunciar</string>
+    <string name="btn_listen_pronunciation">Escuchar como se deberia pronunciar</string>
+    <string name="tv_note">Nota: no ingrese signos de puntuación\n y escriba correctamente el texto en ingles</string>
+</resources>
